@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=GhostBSD Bug Tracking System
+Comment[ca]=Sistema de seguiment d'errors de GhostBSD
+Comment[de]=GhostBSD Fehlerbeseitigungs-System
+Exec=xdg-open http://www.issues.ghostbsd.org
+Icon=chipsyBug
+Name=GhostBSD Bugs
+Name[ca]=GhostBSD Errors
+Name[de]=GhostBSD Fehler
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=System;
